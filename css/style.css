@@ -1,0 +1,42 @@
+*{
+
+}
+.logo{
+	width: 100%;
+	height: 100px;
+	background-color: orange;
+	margin-bottom: 10px;
+
+}
+.wrapper{
+	
+	overflow: hidden;
+
+}
+.side-bar{
+	width: 40%;
+	height: 400px;
+	float: left;
+	text-align:left;
+}
+.banner{
+	width: 60%;
+	height: 110px;
+	background-color: green;
+	float: right;
+	text-align:center;
+}
+.body-area{
+	width: 60%;
+	height: 275px;
+	background-color:green;
+	margin-top: 15px;
+	float: right;
+	text-align:center;
+}
+footer{
+
+	height:80px;
+	background-color: #7a4fb7;
+	margin-top: 10px;
+}
